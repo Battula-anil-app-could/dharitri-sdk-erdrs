@@ -1,9 +1,9 @@
 [package]
 name = "dharitri-sdk-erdrs"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2018"
-homepage = "https://github.com/bicarus-labs/dharitri-sdk-erdrs"
-repository = "https://github.com/bicarus-labs/dharitri-sdk-erdrs"
+homepage = "https://github.com/Battula-anil-app-could/dharitri-sdk-erdrs"
+repository = "https://github.com/Battula-anil-app-could/dharitri-sdk-erdrs"
 documentation = "https://docs.rs/dharitri-sdk-erdrs"
 license = "MIT"
 description = """
