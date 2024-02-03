@@ -1,11 +1,11 @@
 # Dharitri SDK for Rust
 
-[![Crates.io](https://img.shields.io/crates/v/dharitri-sdk-erdrs)](https://crates.io/crates/dharitri-sdk-erdrs)
+[![Crates.io](https://img.shields.io/crates/v/dharitri-sdk-moars)](https://crates.io/crates/dharitri-sdk-moars)
 
 ## Example
 
 ```rust
-use dharitri_sdk_erdrs::blockchain::rpc::{DharitriProxy, DEVNET_GATEWAY};
+use dharitri_sdk_moars::blockchain::rpc::{DharitriProxy, DEVNET_GATEWAY};
 
 #[tokio::test]
 async fn get_network_config() {
